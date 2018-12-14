@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-aop/smart-framework-aop.iml" filepath="$PROJECT_DIR$/smart-framework-aop/smart-framework-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-common/smart-framework-common.iml" filepath="$PROJECT_DIR$/smart-framework-common/smart-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-core/smart-framework-core.iml" filepath="$PROJECT_DIR$/smart-framework-core/smart-framework-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-dao/smart-framework-dao.iml" filepath="$PROJECT_DIR$/smart-framework-dao/smart-framework-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-ds/smart-framework-ds.iml" filepath="$PROJECT_DIR$/smart-framework-ds/smart-framework-ds.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-ioc/smart-framework-ioc.iml" filepath="$PROJECT_DIR$/smart-framework-ioc/smart-framework-ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-mvc/smart-framework-mvc.iml" filepath="$PROJECT_DIR$/smart-framework-mvc/smart-framework-mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-orm/smart-framework-orm.iml" filepath="$PROJECT_DIR$/smart-framework-orm/smart-framework-orm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-parent.iml" filepath="$PROJECT_DIR$/smart-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-plugin/smart-framework-plugin.iml" filepath="$PROJECT_DIR$/smart-framework-plugin/smart-framework-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-tx/smart-framework-tx.iml" filepath="$PROJECT_DIR$/smart-framework-tx/smart-framework-tx.iml" />
+    </modules>
+  </component>
+</project>

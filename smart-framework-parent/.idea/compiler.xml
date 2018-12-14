@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="smart-framework-aop" />
+        <module name="smart-framework-common" />
+        <module name="smart-framework-core" />
+        <module name="smart-framework-dao" />
+        <module name="smart-framework-ds" />
+        <module name="smart-framework-ioc" />
+        <module name="smart-framework-mvc" />
+        <module name="smart-framework-orm" />
+        <module name="smart-framework-plugin" />
+        <module name="smart-framework-tx" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="smart-framework-aop" target="1.5" />
+      <module name="smart-framework-common" target="1.5" />
+      <module name="smart-framework-core" target="1.5" />
+      <module name="smart-framework-dao" target="1.5" />
+      <module name="smart-framework-ds" target="1.5" />
+      <module name="smart-framework-ioc" target="1.5" />
+      <module name="smart-framework-mvc" target="1.5" />
+      <module name="smart-framework-orm" target="1.5" />
+      <module name="smart-framework-parent" target="1.5" />
+      <module name="smart-framework-plugin" target="1.5" />
+      <module name="smart-framework-tx" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

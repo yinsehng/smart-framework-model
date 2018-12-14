@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-ds" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-ioc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-mvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-orm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-tx" charset="UTF-8" />
+  </component>
+</project>
