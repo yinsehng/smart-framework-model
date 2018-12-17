@@ -22,6 +22,9 @@
         <module>smart-framework-ds</module>
         <module>smart-framework-orm</module>
         <module>smart-framework-mvc</module>
+        <module>smart-framework-bean</module>
+        <module>smart-framework-api</module>
+        <module>smart-framework-bootstrap</module>
     </modules>
 
     <dependencies>

@@ -1,6 +1,7 @@
 package org.smart.constant;
 
-import org.smart4j.framework.core.ConfigHelper;
+
+import org.smart.config.ConfigHelper;
 
 public interface FrameworkConstant {
 

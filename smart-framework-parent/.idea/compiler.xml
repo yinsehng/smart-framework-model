@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="smart-framework-aop" />
+        <module name="smart-framework-api" />
+        <module name="smart-framework-bean" />
+        <module name="smart-framework-bootstrap" />
         <module name="smart-framework-common" />
         <module name="smart-framework-core" />
         <module name="smart-framework-dao" />
@@ -20,6 +23,9 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="smart-framework-aop" target="1.5" />
+      <module name="smart-framework-api" target="1.5" />
+      <module name="smart-framework-bean" target="1.5" />
+      <module name="smart-framework-bootstrap" target="1.5" />
       <module name="smart-framework-common" target="1.5" />
       <module name="smart-framework-core" target="1.5" />
       <module name="smart-framework-dao" target="1.5" />

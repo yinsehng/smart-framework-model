@@ -4,6 +4,9 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/smart-framework-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/smart-framework-api/pom.xml" />
+        <option value="$PROJECT_DIR$/smart-framework-bootstrap/pom.xml" />
       </list>
     </option>
   </component>

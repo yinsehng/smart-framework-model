@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/smart-framework-aop/smart-framework-aop.iml" filepath="$PROJECT_DIR$/smart-framework-aop/smart-framework-aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-api/smart-framework-api.iml" filepath="$PROJECT_DIR$/smart-framework-api/smart-framework-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-bean/smart-framework-bean.iml" filepath="$PROJECT_DIR$/smart-framework-bean/smart-framework-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-framework-bootstrap/smart-framework-bootstrap.iml" filepath="$PROJECT_DIR$/smart-framework-bootstrap/smart-framework-bootstrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/smart-framework-common/smart-framework-common.iml" filepath="$PROJECT_DIR$/smart-framework-common/smart-framework-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/smart-framework-core/smart-framework-core.iml" filepath="$PROJECT_DIR$/smart-framework-core/smart-framework-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/smart-framework-dao/smart-framework-dao.iml" filepath="$PROJECT_DIR$/smart-framework-dao/smart-framework-dao.iml" />

@@ -1,9 +1,11 @@
-package org.smart.helper;
+package org.smart.config;
+
+
+import org.smart.constant.FrameworkConstant;
+import org.smart.utils.PropsUtil;
 
 import java.util.Map;
 import java.util.Properties;
-import org.smart4j.framework.FrameworkConstant;
-import org.smart4j.framework.util.PropsUtil;
 
 /**
  * 获取属性文件中的属性值

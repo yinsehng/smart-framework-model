@@ -3,6 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smart-framework-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-bean" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/smart-framework-bootstrap" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smart-framework-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smart-framework-core" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/smart-framework-dao" charset="UTF-8" />
